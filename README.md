@@ -9,6 +9,6 @@ This is the backend of an E-Commerce website. I used Express.js for the server a
 e-commerce sites are big business and need skilled people to run and manage the backend keeping items in stock and priced correctly among many other things.
 
 # User Story:
-AS A manager at an internet retail company
-I WANT a back end for my e-commerce website that uses the latest technologies
-SO THAT my company can compete with other e-commerce companies
+As a manager at an internet retail company
+I want a back end for my e-commerce website that uses the latest technologies
+So that my company can compete with other e-commerce companies
