@@ -11,4 +11,4 @@ const sequelize = process.env.JAWSDB_URL
       },
     });
 
-export default sequelize;
+module.exports = sequelize;
